@@ -68,6 +68,7 @@ describe('CES Test Cases', function(){
     cy.wait(3000) 
     cy.get('.white-btn').click() 
     //Not filling SSN, phone number and middle name details in Background page 
+  // test
     }) 
     }) 
     
