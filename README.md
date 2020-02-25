@@ -1,4 +1,5 @@
 Platform: Windows 10
+
 Tools Used: NodeJs(https://nodejs.org/en/)
 Download & Install nodejs
 Verify the correct installation as node -v and npm -v 
