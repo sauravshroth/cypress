@@ -21,3 +21,5 @@ Navigate to Cypress -> Integration -> cypress_shroth.js
 Click on cypress_shroth.js (Vetty CES test script)
 
 It will open a new window in chrome, to run the script
+
+Note: Once the script has been run then it will require new users to run it again, else it will show an error.
